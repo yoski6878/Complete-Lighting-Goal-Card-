@@ -1,0 +1,17 @@
+.THIS .removemargin{
+    margin-right: 0rem;
+    margin-left: 0rem;
+}
+
+.THIS .centeralign{
+    text-align: center;
+}
+
+.THIS .textalign{
+    text-align: left;
+}
+
+.THIS .margin-top-bottom{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

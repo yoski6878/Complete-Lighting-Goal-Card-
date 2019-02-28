@@ -1,0 +1,75 @@
+<aura:component  implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction"
+    access="global">
+
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+    <aura:attribute name="RecordObject" type="sObject" />
+    <aura:attribute name="Titile" type="string" default="" access="global" />
+  <!-- <aura:attribute name="userData" type="Object" />
+     <lightning:card title="{!v.RecordObject.Name}">  -->
+    
+    <div class="slds-p-around_small">
+            <lightning:card title="Airmans Goals">
+        <div class="slds-grid slds-gutters removemargin">
+
+            <div class="slds-col slds-size_1-of-12 centeralign ">
+                <lightning:icon iconName="action:goal" alternativeText="Approved" />
+            </div>
+
+            <div class="slds-col slds-size_7-of-12 " style="padding-left: 0rem;">
+                    <div class="slds-grid slds-grid_vertical">
+                        <div class="slds-col">
+                            <span style="color:rgb(22, 50, 92);font-size: large;"><b>{!v.RecordObject.Name}</b></span>
+                        </div>
+                    
+                        <div class="slds-col">
+                            <span>{!v.RecordObject.Details__c}</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="slds-col slds-size_2-of-12" style="text-align: right;">
+                    <div class="slds-grid slds-grid_vertical">
+                        <div class="slds-col" style="margin-bottom: 10px;">
+                            <span>Status:</span>
+                            
+                        </div>
+                        <div class="slds-col">
+                            <span>Start Date:</span>
+                        </div>
+                    </div>
+                </div>
+
+                 <div class="slds-col slds-size_2-of-12">
+                    <div class="slds-grid slds-grid_vertical">
+                        <div class="slds-col" style="margin-bottom: 10px;">
+                            <span>{!v.RecordObject.Status__c}</span>
+                        </div>
+                        <div class="slds-col">
+                            <span>{!v.RecordObject.Start_Date__c }</span>
+                        </div>
+                        
+                     </div>
+                </div>
+            </div>
+
+        <footer class="slds-card__footer textalign" style="border-top-color: beige;">
+            <div class="slds-grid slds-wrap">
+                <div class="slds-col slds-size_6-of-12 margin-top-bottom">
+                    <b>Record ID: </b> <span>{!v.RecordObject.Id}</span>
+                </div>
+                <div class="slds-col slds-size_6-of-12 margin-top-bottom">
+                    <b> Start Date:</b> <span>{!v.RecordObject.Start_Date__c}</span>
+                </div>
+                <div class="slds-col slds-size_6-of-12 margin-top-bottom">
+                    <b> Closed Date:</b> <span>{!v.RecordObject.Date_Closed__c}</span>
+                </div>
+                <div class="slds-col slds-size_6-of-12 margin-top-bottom">
+                    <b> Phase of Care :</b> <span>{!v.RecordObject.Phase_of_Care__c}</span>
+                </div>
+            </div>
+
+        </footer>
+
+    </lightning:card>
+    </div>
+</aura:component>
