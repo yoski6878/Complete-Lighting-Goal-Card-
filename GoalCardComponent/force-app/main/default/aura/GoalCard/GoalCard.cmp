@@ -1,12 +1,12 @@
 <aura:component  implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction"
     access="global">
 
-    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+    <aura:handler   name="init" value="{!this}" action="{!c.doInit}" />
     <aura:attribute name="RecordObject" type="sObject" />
     <aura:attribute name="Titile" type="string" default="" access="global" />
-  <!-- <aura:attribute name="userData" type="Object" />
+    <!-- <aura:attribute name="userData" type="Object" />
      <lightning:card title="{!v.RecordObject.Name}">  -->
-    
+         
     <div class="slds-p-around_small">
             <lightning:card title="Airmans Goals">
         <div class="slds-grid slds-gutters removemargin">
@@ -18,7 +18,7 @@
             <div class="slds-col slds-size_7-of-12 " style="padding-left: 0rem;">
                     <div class="slds-grid slds-grid_vertical">
                         <div class="slds-col">
-                            <span style="color:rgb(22, 50, 92);font-size: large;"><b>{!v.RecordObject.Name}</b></span>
+                            <span style="color:rgb(39, 46, 88);font-size: large;"><b>{!v.RecordObject.Name}</b></span>
                         </div>
                     
                         <div class="slds-col">

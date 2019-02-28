@@ -7,7 +7,7 @@
               { "class": "optionClass", label: "Completed", value: "opt3" }
               
           ];
-        component.find("InputSelectDynamic").set("v.options", opts);
+        component.find("InputSelectDynamic").set("v.options", opts); 
 
         
             var action = component.get("c.findUserInfo");
@@ -19,7 +19,7 @@
                   
                 }
             });
-            $A.enqueueAction(action);*/
+            $A.enqueueAction(action); */
         } 
 })
 	

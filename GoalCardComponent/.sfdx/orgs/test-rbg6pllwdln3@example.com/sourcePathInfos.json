@@ -96,11 +96,11 @@
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Complete-Lighting-Goal-Card\\GoalCardComponent\\force-app\\main\\default\\aura\\GoalCard\\GoalCard.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 3438,
-            "modifiedTime": 1551373808417,
-            "changeTime": 1551373808417,
+            "size": 3442,
+            "modifiedTime": 1551376734368,
+            "changeTime": 1551376734368,
             "isWorkspace": false,
-            "contentHash": "0a96a284a3305539b1b6421f0c9aa03f725f1a31"
+            "contentHash": "1a3d2e3f5428cec50e21b2c4f125416d2d401b93"
         }
     ],
     [
@@ -166,15 +166,15 @@
     [
         "C:\\Users\\ykinfu\\Documents\\VS Code\\Complete-Lighting-Goal-Card\\GoalCardComponent\\force-app\\main\\default\\aura\\GoalCard\\GoalCardController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Complete-Lighting-Goal-Card\\GoalCardComponent\\force-app\\main\\default\\aura\\GoalCard\\GoalCardController.js",
             "isDirectory": false,
-            "size": 876,
-            "modifiedTime": 1551373761935,
-            "changeTime": 1551373761935,
-            "contentHash": "afa0e255df81e4fdd6b7763879f638c5fd39fb46",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 878,
+            "modifiedTime": 1551376714498,
+            "changeTime": 1551376714498,
+            "isWorkspace": false,
+            "contentHash": "d6c0cd3fd4fce5e225e5a63d2f941e884179d98d"
         }
     ],
     [
@@ -507,15 +507,15 @@
     [
         "C:\\Users\\ykinfu\\Documents\\VS Code\\Complete-Lighting-Goal-Card\\GoalCardComponent\\force-app\\main\\default\\Classes\\GoalInfos.cls",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\Complete-Lighting-Goal-Card\\GoalCardComponent\\force-app\\main\\default\\Classes\\GoalInfos.cls",
             "isDirectory": false,
-            "size": 475,
-            "modifiedTime": 1551373173615,
-            "changeTime": 1551370933566,
-            "contentHash": "ba6e41ee79140b68abd7795e2524cc75c42a1e8b",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 482,
+            "modifiedTime": 1551376612675,
+            "changeTime": 1551376612675,
+            "isWorkspace": false,
+            "contentHash": "a5c20876b6d29346d2a6391c6db425bdf18955d4"
         }
     ],
     [
