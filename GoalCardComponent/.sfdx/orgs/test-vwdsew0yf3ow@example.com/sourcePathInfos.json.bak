@@ -1,0 +1,677 @@
+[
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1552070558000,
+            "changeTime": 1552070558711,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1552070558000,
+            "changeTime": 1552070558714,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1552070558000,
+            "changeTime": 1552070558717,
+            "contentHash": "7b6562d12aa10baaad3431d15e01404647bc75cc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/Classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/Classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1552069757000,
+            "changeTime": 1552069757428,
+            "contentHash": "da81045d0e4adfa7e2f88234a4a2623ba5cd4d55",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/Classes/GoalInfos.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/Classes/GoalInfos.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 482,
+            "modifiedTime": 1552069709377,
+            "changeTime": 1552069709928,
+            "contentHash": "a5c20876b6d29346d2a6391c6db425bdf18955d4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/Classes/GoalInfos.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/Classes/GoalInfos.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 187,
+            "modifiedTime": 1552069709377,
+            "changeTime": 1552069709931,
+            "contentHash": "b16ebcaf61a81c91789791220ca728ace03d3305",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1552069757000,
+            "changeTime": 1552069757426,
+            "contentHash": "a1f4490be4dba85dce65d4d1772afa645b3bb96c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1552069757000,
+            "changeTime": 1552069757430,
+            "contentHash": "cb77471a44c2863286de67e3b3e6b98b4b666c07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCard.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCard.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1552069709378,
+            "changeTime": 1552069709936,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCard.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCard.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3447,
+            "modifiedTime": 1552069709378,
+            "changeTime": 1552069709939,
+            "contentHash": "cfc3db0c1ee656bb7b46a5996a1079cf4ad8656d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCard.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCard.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 240,
+            "modifiedTime": 1552069709379,
+            "changeTime": 1552069709942,
+            "contentHash": "2af3f0d037341e42bf44bfd31f642a3817acb6a9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCard.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCard.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1552069709379,
+            "changeTime": 1552069709944,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCard.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCard.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1552069709380,
+            "changeTime": 1552069709947,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCard.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCard.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1552069709380,
+            "changeTime": 1552069709950,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCardController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCardController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 878,
+            "modifiedTime": 1552069709381,
+            "changeTime": 1552069709953,
+            "contentHash": "d6c0cd3fd4fce5e225e5a63d2f941e884179d98d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCardHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCardHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1552069709381,
+            "changeTime": 1552069709955,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCardRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCard/GoalCardRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1552069709381,
+            "changeTime": 1552069709958,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1552069757000,
+            "changeTime": 1552069757432,
+            "contentHash": "3613559fba3e6bc81e5c72f6347b45db9af217f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmp.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmp.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1552069709382,
+            "changeTime": 1552069709962,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmp.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmp.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 537,
+            "modifiedTime": 1552069709382,
+            "changeTime": 1552069709965,
+            "contentHash": "33dad6ea55eb732d9b53d190a699629532922946",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmp.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmp.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1552069709382,
+            "changeTime": 1552069709968,
+            "contentHash": "6e7f2a4b534ad4e498da49fcac6ded96acf82286",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmp.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 235,
+            "modifiedTime": 1552069709382,
+            "changeTime": 1552069709971,
+            "contentHash": "6575a2f7cba7085baaddd0b1d90c0c3ab9462c17",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmp.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmp.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1552069709383,
+            "changeTime": 1552069709973,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmp.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmp.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1552069709383,
+            "changeTime": 1552069709976,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmpController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmpController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 482,
+            "modifiedTime": 1552069709383,
+            "changeTime": 1552069709978,
+            "contentHash": "6d47600b8fa1497e88c24b4a8cdb45ad995680d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmpHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmpHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1552069709384,
+            "changeTime": 1552069709981,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmpRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/GoalCardMainCmp/GoalCardMainCmpRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1552069709384,
+            "changeTime": 1552069709984,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1552069751000,
+            "changeTime": 1552069751942,
+            "contentHash": "f041dd0bca9936d0a7acbe547ea12b665ed814dc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo/LightningCardAppDemo.app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo/LightningCardAppDemo.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 83,
+            "modifiedTime": 1552069709384,
+            "changeTime": 1552069709987,
+            "contentHash": "83bd9112ed9faff4d051f70217d85efff83bb9cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo/LightningCardAppDemo.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo/LightningCardAppDemo.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 254,
+            "modifiedTime": 1552069709384,
+            "changeTime": 1552069709992,
+            "contentHash": "5d7b1f99f7e80f7ab21bc908159d8a35c318b350",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo/LightningCardAppDemo.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo/LightningCardAppDemo.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1552069709385,
+            "changeTime": 1552069709995,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo/LightningCardAppDemo.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo/LightningCardAppDemo.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1552069709385,
+            "changeTime": 1552069709997,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo/LightningCardAppDemo.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo/LightningCardAppDemo.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1552069709385,
+            "changeTime": 1552069710001,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo/LightningCardAppDemoController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo/LightningCardAppDemoController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1552069709386,
+            "changeTime": 1552069710004,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo/LightningCardAppDemoHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo/LightningCardAppDemoHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1552069709386,
+            "changeTime": 1552069710007,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo/LightningCardAppDemoRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/aura/LightningCardAppDemo/LightningCardAppDemoRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1552069709386,
+            "changeTime": 1552069710010,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1552069751000,
+            "changeTime": 1552069751936,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1552070558000,
+            "changeTime": 1552070558719,
+            "contentHash": "fef2aa2f2bfa12023756481c2cf87e293dfefbd9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/objects/BMI__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/objects/BMI__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1552070324000,
+            "changeTime": 1552070324663,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/objects/BMI__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/objects/BMI__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2101,
+            "modifiedTime": 1552070426474,
+            "changeTime": 1552070426474,
+            "contentHash": "3942c7762dc012d7bd3480a02588f27dea7f613e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/objects/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/objects/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1552070558000,
+            "changeTime": 1552070558721,
+            "contentHash": "25ebacef91a504a7f618a79bdc4d0f957ef96999",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/objects/fields/BMI__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/objects/fields/BMI__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 378,
+            "modifiedTime": 1552070512535,
+            "changeTime": 1552070512535,
+            "contentHash": "d10b6178d327ff5015d4a318707851f22f741fcb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/objects/fields/Height__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/objects/fields/Height__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 384,
+            "modifiedTime": 1552070535254,
+            "changeTime": 1552070535254,
+            "contentHash": "f1f9c28ab8d38ec6a1bee10204e8d9a9d67e78a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/objects/fields/Weight__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent/force-app/main/default/objects/fields/Weight__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 384,
+            "modifiedTime": 1552070557057,
+            "changeTime": 1552070557057,
+            "contentHash": "34c645d570c952876b20c4304b8c7446966db101",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Complete-Lighting-Goal-Card-/GoalCardComponent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1552070909000,
+            "changeTime": 1552070909980,
+            "contentHash": "67bcaeb63e3242ee307d017757fce647b2fdb77a",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
